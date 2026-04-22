@@ -4,7 +4,7 @@ SmartBudget je moderna veb aplikacija za praćenje ličnih finansija, razvijena 
 
 ## 📄 Dokumentacija
 
-Kompletna projektna dokumentacija dostupna je u [docs/dokumentacija.pdf](docs/dokumentacija.pdf).
+Kompletna projektna dokumentacija dostupna je u [docs/Dokumentacija.pdf](docs/Dokumentacija.pdf).
 
 ## 🚀 Tehnologije
 
